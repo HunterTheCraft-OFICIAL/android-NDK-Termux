@@ -1,14 +1,44 @@
 
 # Meu-NDK-Termux
-# =================
+==================
 
-   * Teste 
+* Teste 
      ```bash
      Teste de Copiar
      ```
-   * Teste
+ * Teste
+   ```bash
+     Teste de Copiar
+     ```
 
-   * Teste 
+
+
+* Teste
+```bash
+Teste de Copiar
+```
+ * Teste
+ ```bash
+Teste de Copiar
+```
+  * Teste
+  ```bash
+Teste de Copiar
+```
+   * Teste
+   ```bash
+Teste de Copiar
+```
+    * Teste 
+    ```bash
+Teste de Copiar
+```
+     * Teste
+     ```bash
+Teste de Copiar
+```
+
+
      ```bash
      Teste de Copiar
      ```
