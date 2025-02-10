@@ -2,11 +2,11 @@
 # Meu-NDK-Termux
 =================
 
-teste
- Contribua:
+   * Teste 
      ```bash
-     PIX
+     Teste de Copiar
      ```
+   * Teste
 
 
 Este repositório contém o NDK (Native Development Kit) para Android, juntamente com um tutorial passo a passo para instalação e informações importantes.
