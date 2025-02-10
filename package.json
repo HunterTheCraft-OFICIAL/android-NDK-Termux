@@ -1,0 +1,25 @@
+{
+  "name": "android-ndk-termux",
+  "version": "1.0.0",
+  "description": "=================",
+  "main": "index.js",
+  "scripts": {
+    "test": "sh verifica_requisitos.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HunterTheCraft-OFICIAL/android-NDK-Termux.git"
+  },
+  "keywords": [
+    "NKD",
+    "Termux",
+    "Mobile",
+    "sqlite3"
+  ],
+  "author": "HunterTheCraft-OFICIAL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HunterTheCraft-OFICIAL/android-NDK-Termux/issues"
+  },
+  "homepage": "https://github.com/HunterTheCraft-OFICIAL/android-NDK-Termux#readme"
+}
